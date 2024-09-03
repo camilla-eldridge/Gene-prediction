@@ -1,6 +1,6 @@
 # Gene prediction
 
-Collection of old scripts written to automate gene prediction. <br /> <br /> <br /> 
+Collection of old scripts written to automate gene prediction and custom braker stats scripts. <br /> <br /> <br /> 
 
 
 
