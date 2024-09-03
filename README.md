@@ -1,6 +1,6 @@
 # Gene prediction
 
-Pipelines developed to predict genes from draft genomes. <br /> <br /> <br /> 
+Collection of old scripts written to automate gene prediction. <br /> <br /> <br /> 
 
 
 
@@ -15,7 +15,7 @@ When using a reference sequence from a close relative:<br /> <br /> <br />
   
       Usage: ./coding_exon_prediction.sh  [dir_list.txt]  [protein_query.fasta]  [best_n_hits]  [masked_query(Y/N)]  [trans_table(standard=1)]  [gene_id]
 
-
+Requires in $PATH: Exonerate, Transeq(EMBOSS), longest_orf.py, extract_exonerate_output.py 
 
 Requires:
 * `Exonerate` (tested on v2.2.0)
